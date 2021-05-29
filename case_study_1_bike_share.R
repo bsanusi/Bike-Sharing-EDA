@@ -3,7 +3,7 @@ rm( list=ls() ) # remove all existing objects in the environment
 gc() 
 
 ##Set Working Directory##
-setwd("D:/Dev/Google Analytics Cert/Course 8/Capstone Task 1/Data")
+setwd()
 
 ########Import packages########
 library(ggplot2)
